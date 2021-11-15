@@ -1,3 +1,5 @@
+# 使用了文献“Learning Efficient Convolutional Networks through Network Slimming”所提出的剪枝方法，并进行了改进设计
+
 # Network-Slimming-Using-Keras
 Prunning Deep-ResNet 
 
